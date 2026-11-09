@@ -1,0 +1,10 @@
+# Archivos privados y temporales
+.env
+.env.*
+!.env.example
+.firebase/
+*-debug.log
+
+# Archivos auxiliares
+.agents/
+skills-lock.json
